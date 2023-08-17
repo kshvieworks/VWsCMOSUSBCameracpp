@@ -1,6 +1,6 @@
 # VWsCMOSUSBCameracpp
 
-This Project aims to Connect Vieworks sCMOS USB Camera, and eventually get Image Information with CV::MAT Format.
+This Project aims to Connect Vieworks sCMOS USB Camera, and eventually get Image Information with cv::Mat Format.
  - Prerequisite Hardware Configuration: Vieworks sCMOS USB Camera
  - Prerequisite Software: VIS 7 and following c++ based SDK, opencv package
  - Develop Environment: Visual Studio Community 2022
