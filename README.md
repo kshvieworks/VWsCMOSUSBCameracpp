@@ -11,4 +11,4 @@ This Project aims to Connect Vieworks sCMOS USB Camera, and eventually get Image
    - Set the Library Path for VwUSB and opencv.
      - Configuration Properties → Linker → General → Additional Library Directories
    - Set the Library for VwUSB and opencv.
-     - Configuration Properties → Linker → Input → Additional Dependencies
+    - Configuration Properties → Linker → Input → Additional Dependencies
