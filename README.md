@@ -7,9 +7,8 @@ This Project aims to Connect Vieworks sCMOS USB Camera, and eventually get Image
  
  - Prerequisite Environment Settings
    - Set the Directory Path for Include Header File of VwUSB and opencv.
-     
-     Configuration Properties → C/C++ → General → Additional Include Directories
+     - Configuration Properties → C/C++ → General → Additional Include Directories
    - Set the Library Path for VwUSB and opencv.
-     Configuration Properties → Linker → General → Additional Library Directories
+     - Configuration Properties → Linker → General → Additional Library Directories
    - Set the Library for VwUSB and opencv.
-     Configuration Properties → Linker → Input → Additional Dependencies
+     - Configuration Properties → Linker → Input → Additional Dependencies
